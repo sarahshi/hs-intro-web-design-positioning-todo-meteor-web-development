@@ -6,4 +6,6 @@ Open `index.html` in the browser. You'll see a jumbled candy store. None of the 
 
 HINT: look up the CSS property `vertical-align` to get rid of the white lines. You'll want to add that property to the already-existing CSS for the `img` tag.
 
+If you take a look at `index.html`, you'll notice that all the code for the images is all smooshed together. Typically that's not best practice, but this time there's a reason the code is written that way. Once you solve the puzzle, put each `img` tag on it's own line to see the effect this has on the final puzzle.
+
 Code your solution in `index.html` and `css/style.css`. You'll wan to use absolute positioning to put this puzzle together.
