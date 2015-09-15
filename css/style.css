@@ -1,0 +1,60 @@
+img {
+  width: 300px;
+  vertical-align: bottom;
+}
+
+#one {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+
+#two {
+  position: absolute;
+  left: 300px;
+  top: 0px;
+}
+
+#three {
+  position: absolute;
+  left: 600px;
+  top: 0px;
+}
+
+#four {
+  position: absolute;
+  left: 0px;
+  top: 210px;
+}
+
+#five {
+  position: absolute;
+  left: 300px;
+  top: 209px;
+}
+
+#six {
+  position: absolute;
+  left: 600px;
+  top: 209px;
+}
+
+#seven {
+  position: absolute;
+  left: 0px;
+  top: 418px;
+}
+
+#eight {
+  position: absolute;
+  left: 300px;
+  top: 418px;
+}
+
+#nine {
+  position: absolute;
+  z-index: 1;
+  left: 600px;
+  top: 418px;
+}
+
