@@ -1,3 +1,39 @@
 img{
-  vertical-align: text-top;
+  position: absolute;
+}
+
+img:nth-of-type(6){
+  left: 333px;
+}
+
+img[src="images/puzzle-three.png"]{
+  left:666px;
+}
+
+img[src="images/puzzle-four.png"]{
+  top:233px;
+}
+
+img[src="images/puzzle-five.png"]{
+  top:233px;
+  left:333px;
+}
+  
+img[src="images/puzzle-six.png"]{
+  top:233px;
+  left:666px;
+}
+
+img[src="images/puzzle-seven.png"]{
+  top:466px;
+}
+
+img[src="images/puzzle-eight.png"]{
+  top:466px;
+  left:333px
+}
+
+img[src="images/puzzle-nine.png"]{
+  top:466px;
+  left:666px
 }
